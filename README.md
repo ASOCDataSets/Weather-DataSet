@@ -1,7 +1,6 @@
 # Datasets from Brazilian Weather Stations
 
-
-# DATA SET INFORMATION:
+- DATA SET INFORMATION:
 
 Data comes originally from INMET - Instituto Nacional de Meteorologia (inmet.gov.br)
 
@@ -21,23 +20,16 @@ to develop evolving prediction models.
 The intention of the datasets is to help others to obtain the same data and replicate our experiments.
 
 
-# ATTRIBUTE INFORMATION:
+- ATTRIBUTE INFORMATION:
 
 Name / Data Type / Measurement Unit
 
------------------------------ 
-
-Humidity / continuous / Grams of water vapor per cubic meter of air (g/m3)
-
-Cloudiness / continuous / Okta (O)
-
-Rainfall	/ continuous / Millimeters per square meter (mm/m^2)
-
-Maximum temperature / continuous / Degrees Celsius (C)
-
-Minimum temperature / continuous / Degrees Celsius (C)
-
-Mean temperature / continuous	/ Degrees Celsius (C)
+1 - Humidity / continuous / Grams of water vapor per cubic meter of air (g/m3)
+2 - Cloudiness / continuous / Okta (O)
+3 - Rainfall	/ continuous / Millimeters per square meter (mm/m^2)
+4 - Maximum temperature / continuous / Degrees Celsius (C)
+5 - Minimum temperature / continuous / Degrees Celsius (C)
+6 - Mean temperature / continuous	/ Degrees Celsius (C)
 
 The mean temperature is the value to predict.
 
