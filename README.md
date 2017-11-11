@@ -24,12 +24,19 @@ The intention of the datasets is to help others to obtain the same data and repl
 # ATTRIBUTE INFORMATION:
 
 Name / Data Type / Measurement Unit
+
 ----------------------------- 
+
 Humidity / continuous / Grams of water vapor per cubic meter of air (g/m3)
+
 Cloudiness / continuous / Okta (O)
+
 Rainfall	/ continuous / Millimeters per square meter (mm/m^2)
+
 Maximum temperature / continuous / Degrees Celsius (C)
+
 Minimum temperature / continuous / Degrees Celsius (C)
+
 Mean temperature / continuous	/ Degrees Celsius (C)
 
 The mean temperature is the value to predict.
