@@ -24,9 +24,9 @@ The intention of the datasets is to help others to obtain the same data and repl
 
 Name / Data Type / Measurement Unit
 
-  1 - Humidity / continuous / Grams of water vapor per cubic meter of air (g/m3)
+  1 - Humidity / continuous / percentage (%)
 
-  2 - Cloudiness / continuous / Okta (O)
+  2 - Cloudiness / continuous / Tenth (T)
 
   3 - Rainfall	/ continuous / Millimeters per square meter (mm/m^2)
 
