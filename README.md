@@ -24,7 +24,7 @@ The intention of the datasets is to help others to obtain the same data and repl
 
 Name / Data Type / Measurement Unit
 
-  1 - Humidity / continuous / percentage (%)
+  1 - Humidity / continuous / Percentage (%)
 
   2 - Cloudiness / continuous / Tenth (T)
 
