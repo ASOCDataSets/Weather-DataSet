@@ -1,10 +1,10 @@
 # Datasets from Brazilian Weather Stations
 
-- DATA SET INFORMATION:
+- DATA SET INFORMATION
 
 Data comes originally from INMET - Instituto Nacional de Meteorologia (inmet.gov.br)
 
-This dataset contains monthly data of air humidity, cloudiness, rainfall, maximum temperature, minimum temperature, and mean temperature obtained from four brazilian weather stations: Manaus, Sao Paulo, Natal, and Porto Alegre. Data were collected from January of 1990 to December of 2015.
+These datasets contain monthly data of air humidity, cloudiness, rainfall, maximum temperature, minimum temperature, and mean temperature obtained from four brazilian weather stations: Manaus, Sao Paulo, Natal, and Porto Alegre. Data were collected from January of 1990 to December of 2015.
 
 Number of samples in each dataset: 312.
 Number of attributes: 6.
@@ -20,7 +20,7 @@ to develop evolving prediction models.
 The intention of the datasets is to help others to obtain the same data and replicate our experiments.
 
 
-- ATTRIBUTE INFORMATION:
+- ATTRIBUTE INFORMATION
 
 Name / Data Type / Measurement Unit
 
@@ -34,7 +34,7 @@ Name / Data Type / Measurement Unit
 The mean temperature is the value to predict.
 
 
-# RELEVANT PAPERS:
+- RELEVANT PAPERS
 
 Soares, E.; Costa Jr., P.; Costa, B.; Leite, D.
 "Ensemble of evolving data clouds and fuzzy models for weather time series prediction."
@@ -47,4 +47,3 @@ Soares, E.; Mota, V.; Poucas, R.; Leite, D.
 Leite, D.; Ballini, R.; Costa, P.; Gomide, F.
 "Evolving fuzzy granular modeling from nonstationary fuzzy data streams."
 Evolving Systems 3 (2), 65-79, 2012.
-
